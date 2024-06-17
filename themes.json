@@ -33,5 +33,10 @@
     "desc": "Dark Github theme for AiraCloud",
     "by": "Github",
     "verified": true
+  },
+  "solarizedDark": {
+    "desc": "Old Solarized Dark Theme",
+    "by": "AiraCloud",
+    "verified": true
   }
 }
