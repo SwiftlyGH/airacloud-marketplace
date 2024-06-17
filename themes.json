@@ -1,0 +1,37 @@
+{
+  "dark": {
+    "desc": "Default AiraCloud Dark Theme.",
+    "by": "AiraCloud",
+    "verified": true
+  },
+  "light": {
+    "desc": "Default AiraCloud Light Theme.",
+    "by": "AiraCloud",
+    "verified": true
+  },
+  "barf": {
+    "desc": "A dark, green theme for AiraCloud.",
+    "by": "ThemeMirror",
+    "verified": true
+  },
+  "dracula": {
+    "desc": "Official Dracula Theme. A dark theme for many editors, shells, and more.",
+    "by": "Dracula Theme",
+    "verified": true
+  },
+  "tokyoNight": {
+    "desc": "A clean AiraCloud theme that celebrates the lights of Downtown Tokyo at night.",
+    "by": "AiraCloud",
+    "verified": true
+  },
+  "oneDark": {
+    "desc": "A theme based on the colors of the old OneDark Atom theme. For AiraCloud",
+    "by": "Atom",
+    "verified": true
+  },
+  "githubDark": {
+    "desc": "Dark Github theme for AiraCloud",
+    "by": "Github",
+    "verified": true
+  }
+}
