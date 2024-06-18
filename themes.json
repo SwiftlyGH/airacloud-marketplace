@@ -38,5 +38,10 @@
     "desc": "Old Solarized Dark Theme",
     "by": "AiraCloud",
     "verified": true
+  },
+  "solarizedLight": {
+    "desc": "Old Solarized Light Theme",
+    "by": "AiraCloud",
+    "verified": true
   }
 }
