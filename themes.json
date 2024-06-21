@@ -43,5 +43,10 @@
     "desc": "Old Solarized Light Theme",
     "by": "AiraCloud",
     "verified": true
+  },
+  "oneMonokai": {
+    "desc": "[BETA] A cross between Monokai and One Dark theme.",
+    "by": "Joshua Azemoh",
+    "verified": true
   }
 }
