@@ -45,8 +45,13 @@
     "verified": true
   },
   "oneMonokai": {
-    "desc": "[BETA] A cross between Monokai and One Dark theme.",
+    "desc": "A cross between Monokai and One Dark theme.",
     "by": "Joshua Azemoh",
+    "verified": true
+  },
+  "xCode": {
+    "desc": "A theme based on the xCode Apple Editor.",
+    "by": "Apple",
     "verified": true
   }
 }
