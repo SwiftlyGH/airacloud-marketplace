@@ -58,5 +58,10 @@
     "desc": "A theme based on Darcula theme from Jetbrains IDEs",
     "by": "JetBrains",
     "verified": true
+  },
+  "sublime": {
+    "desc": "A theme based on the Sublime editor theme",
+    "by": "Sublime",
+    "verified": true
   }
 }
