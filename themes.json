@@ -4,6 +4,11 @@
     "by": "AiraCloud",
     "verified": true
   },
+  "darkHighContrast": {
+    "desc": "Default Dark High Contrast AiraCloud Theme.",
+    "by": "AiraCloud",
+    "verified": true
+  },
   "light": {
     "desc": "Default AiraCloud Light Theme.",
     "by": "AiraCloud",
